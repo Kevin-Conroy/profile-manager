@@ -1,4 +1,4 @@
-import React from "react"
+import React from "react";
 
 const ProfileData = [
     {
@@ -21,4 +21,4 @@ const ProfileData = [
     }
   ]
 
-export default ProfileData
+export default ProfileData;
